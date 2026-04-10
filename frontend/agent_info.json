@@ -1,0 +1,20 @@
+{
+  "keys": [
+    "debug",
+    "agentId",
+    "description",
+    "threadId",
+    "messages",
+    "state",
+    "abortController",
+    "url",
+    "headers"
+  ],
+  "proto": [
+    "constructor",
+    "requestInit",
+    "runAgent",
+    "abortRun",
+    "run"
+  ]
+}

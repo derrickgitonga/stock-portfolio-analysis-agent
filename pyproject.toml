@@ -14,4 +14,5 @@ dependencies = [
     "pandas>=2.3.0,<3.0.0",
     "crewai>=0.140.0,<0.141.0",
     "pybase64>=1.4.1,<2.0.0",
+    "google-generativeai>=0.3.0",
 ]
